@@ -1,8 +1,8 @@
 ## homebrew-notes
-Tap with formula for installing [notes](https://github.com/kylebebak/notes)
+Homebrew tap with formula for installing [notes](https://github.com/kylebebak/notes)
 
-To add this tap:
+#### Add this tap
 `brew tap kylebebak/notes`
 
-Then, to install **notes**:
+#### Install notes
 `brew install notes`
