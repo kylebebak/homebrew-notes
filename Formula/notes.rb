@@ -3,7 +3,7 @@ class Notes < Formula
   homepage "https://github.com/kylebebak/notes"
   url "https://github.com/kylebebak/notes/archive/1.0.0.tar.gz"
   version "1.0.0"
-  sha256 "cea485e5dd8d5d027f0781f0d13cffa783d8012ba41eedaec9874fb6ccf8cb6a"
+  sha256 "e17405adc655824dec3ca6e2a9a4b199a715743ed5f0948df58f6bb369267aa3"
 
   def install
     bin.install "bin/notes"
