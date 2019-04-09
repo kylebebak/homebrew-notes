@@ -1,9 +1,9 @@
 class Notes < Formula
   desc "CLI tool for quick access, editing capability, and search functionality to all notes under a directory of your choosing. Under your notes directory, organize your notes into any folder structure you like."
   homepage "https://github.com/kylebebak/notes"
-  url "https://github.com/kylebebak/notes/archive/1.0.1.tar.gz"
-  version "1.0.1"
-  sha256 "a06a2e6bd8a7d5d476644a9343f0dc4686b58151007c80c34f733024c16eca67"
+  url "https://github.com/kylebebak/notes/archive/1.1.0.tar.gz"
+  version "1.1.0"
+  sha256 "ef1416574fb66a64cbc8f238995fbfc590c7ac38d0592b422b0463fd6c9c0d54"
 
   def install
     bin.install "bin/notes"
