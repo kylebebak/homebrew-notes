@@ -7,8 +7,7 @@ class Notes < Formula
 
   def install
     bin.install "bin/notes"
-    prefix.install Dir["_completions"]
-    prefix.install Dir["_helpers"]
-    prefix.install Dir["_config"]
+    prefix.install Dir["completions"]
+    prefix.install Dir["helpers"]
   end
 end
